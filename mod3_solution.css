@@ -1,0 +1,47 @@
+#header-nav{
+	background-color: darkgoldenrod;
+	padding-bottom: 0;
+}
+.navbar-brand {
+ padding: auto;
+ font-size: 3em;
+}
+.navbar-brand h1 {
+	font-family: sans-serif;
+	color: blue;
+	font-weight: bold;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a:hover {
+	text-decoration: none;
+}
+#nav-list{
+	margin-top: 0;
+	margin-bottom: 0;
+	text-align: center;	
+}
+#nav-list a {
+	color: maroon;
+	background-color: skyblue;
+	border: 1px solid black;
+}
+#nav-list a:hover {
+	background: #e7e7e7;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid #61122f;
+}
+#title {
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+h3 {
+	font-weight: bold;
+	background-color: darkgoldenrod;
+	margin-bottom: 0;
+}
+.section p {
+	background-color: darkgoldenrod;
+}
